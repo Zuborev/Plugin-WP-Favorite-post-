@@ -1,0 +1,11 @@
+.xz-favorites-del{
+    color: #58ac61;
+    font-weight: bolder;
+}
+.xz-favorites-del:hover{
+    color: #ff0069;
+    font-weight: bolder;
+}
+.xz-favorites-hidden{
+    display: none;
+}

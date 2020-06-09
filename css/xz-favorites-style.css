@@ -1,0 +1,27 @@
+p.xz-favorites-link a{
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    border: none;
+
+}
+p.xz-favorites-link a:hover{
+    text-decoration: none;
+    color: #ff0069;
+}
+
+.xz-favorites-hidden{
+    display: none;
+}
+
+.xz-favorites-del{
+    color: #58ac61;
+    font-weight: bolder;
+}
+.xz-favorites-del:hover{
+    color: #ff0069;
+    font-weight: bolder;
+}
+
+ ul.xz-ul-widget{
+    list-style: none;
+}
